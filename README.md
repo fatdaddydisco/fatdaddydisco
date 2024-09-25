@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Im Braden, a first year CS major at Georgia Tech interested in AI and Cybersecurity, plus trading stocks with robots:)
+Im Braden, a first year CS major at Georgia Tech interested in AI , Algorithms, and Low level systems, plus trading stocks with robots:)
 
 Im learning web development right now, just to dip my feet back into project development, but I also know OOP in Java and a good bit of python
 
